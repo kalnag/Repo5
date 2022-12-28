@@ -1,1 +1,2 @@
 Data has been located in local drive
+Almost data saved in local repo and remote
